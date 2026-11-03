@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 안녕하세요! 반갑습니다.
 
-<!--
-**LEE8233/LEE8233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 저는 새로운 것을 배우고 도전하는 것을 좋아하는 개발자입니다.
 
-Here are some ideas to get you started:
+기술을 통해 문제를 해결하고, 더 나은 아이디어를 현실로 만드는 과정에 관심이 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 새로운 기술과 지식을 꾸준히 배우고 있습니다.
+- 💡 창의적인 아이디어와 문제 해결을 좋아합니다.
+- 🔍 배우고 경험한 것을 기록하고 공유합니다.
+- 🎯 꾸준한 성장과 발전을 목표로 합니다.
+
+### 🛠️ Tech Stack
+*관심 기술 및 사용 기술을 여기에 추가할 예정입니다.*
+
+### 📌 Goals
+- 지속적인 학습과 성장
+- 의미 있는 프로젝트 만들기
+- 다양한 기술 경험과 도전
+
+### 📫 Connect with Me
+- GitHub: [My GitHub](https://github.com/)
+
+---
+
+⭐ 방문해 주셔서 감사합니다!
